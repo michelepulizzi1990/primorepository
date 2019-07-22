@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 kkk
+=======
+bbb
+>>>>>>> 7d2f7d9e0a368809cda380dbad894121f059caed
